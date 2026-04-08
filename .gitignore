@@ -1,0 +1,36 @@
+# Build directories
+build/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Binaries
+*.out
+*.app
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage
+coverage/
+*.gcda
+*.gcno
+
+# Dependencies
+deps/
